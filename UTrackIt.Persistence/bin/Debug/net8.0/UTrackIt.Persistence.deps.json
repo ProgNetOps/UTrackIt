@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UTrackIt.Persistence/1.0.0": {
+        "dependencies": {
+          "UTrackIt.Domain": "1.0.0"
+        },
+        "runtime": {
+          "UTrackIt.Persistence.dll": {}
+        }
+      },
+      "UTrackIt.CustomValidations/1.0.0": {
+        "runtime": {
+          "UTrackIt.CustomValidations.dll": {}
+        }
+      },
+      "UTrackIt.Domain/1.0.0": {
+        "dependencies": {
+          "UTrackIt.CustomValidations": "1.0.0"
+        },
+        "runtime": {
+          "UTrackIt.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UTrackIt.Persistence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UTrackIt.CustomValidations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UTrackIt.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

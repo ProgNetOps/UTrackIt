@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\UTrackIt.Presentation.props" />
+</Project>

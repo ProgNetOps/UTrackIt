@@ -1,0 +1,17 @@
+C:\Repository\UTrackIt\UTrackIt.Persistence\obj\Debug\net8.0\UTrackIt.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\UTrackIt\UTrackIt.Persistence\obj\Debug\net8.0\UTrackIt.Persistence.AssemblyInfoInputs.cache
+C:\Repository\UTrackIt\UTrackIt.Persistence\obj\Debug\net8.0\UTrackIt.Persistence.AssemblyInfo.cs
+C:\Repository\UTrackIt\UTrackIt.Persistence\obj\Debug\net8.0\UTrackIt.Persistence.csproj.CoreCompileInputs.cache
+C:\Repository\UTrackIt\UTrackIt.Persistence\bin\Debug\net8.0\UTrackIt.Persistence.deps.json
+C:\Repository\UTrackIt\UTrackIt.Persistence\bin\Debug\net8.0\UTrackIt.Persistence.dll
+C:\Repository\UTrackIt\UTrackIt.Persistence\bin\Debug\net8.0\UTrackIt.Persistence.pdb
+C:\Repository\UTrackIt\UTrackIt.Persistence\bin\Debug\net8.0\UTrackIt.CustomValidations.dll
+C:\Repository\UTrackIt\UTrackIt.Persistence\bin\Debug\net8.0\UTrackIt.Domain.dll
+C:\Repository\UTrackIt\UTrackIt.Persistence\bin\Debug\net8.0\UTrackIt.Domain.pdb
+C:\Repository\UTrackIt\UTrackIt.Persistence\bin\Debug\net8.0\UTrackIt.CustomValidations.pdb
+C:\Repository\UTrackIt\UTrackIt.Persistence\obj\Debug\net8.0\UTrackIt.Persistence.csproj.AssemblyReference.cache
+C:\Repository\UTrackIt\UTrackIt.Persistence\obj\Debug\net8.0\UTrackIt.Persistence.csproj.CopyComplete
+C:\Repository\UTrackIt\UTrackIt.Persistence\obj\Debug\net8.0\UTrackIt.Persistence.dll
+C:\Repository\UTrackIt\UTrackIt.Persistence\obj\Debug\net8.0\refint\UTrackIt.Persistence.dll
+C:\Repository\UTrackIt\UTrackIt.Persistence\obj\Debug\net8.0\UTrackIt.Persistence.pdb
+C:\Repository\UTrackIt\UTrackIt.Persistence\obj\Debug\net8.0\ref\UTrackIt.Persistence.dll

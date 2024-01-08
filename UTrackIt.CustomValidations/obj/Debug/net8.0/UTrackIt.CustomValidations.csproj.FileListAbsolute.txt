@@ -1,0 +1,11 @@
+C:\Repository\UTrackIt\UTrackIt.CustomValidations\bin\Debug\net8.0\UTrackIt.CustomValidations.deps.json
+C:\Repository\UTrackIt\UTrackIt.CustomValidations\bin\Debug\net8.0\UTrackIt.CustomValidations.dll
+C:\Repository\UTrackIt\UTrackIt.CustomValidations\bin\Debug\net8.0\UTrackIt.CustomValidations.pdb
+C:\Repository\UTrackIt\UTrackIt.CustomValidations\obj\Debug\net8.0\UTrackIt.CustomValidations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\UTrackIt\UTrackIt.CustomValidations\obj\Debug\net8.0\UTrackIt.CustomValidations.AssemblyInfoInputs.cache
+C:\Repository\UTrackIt\UTrackIt.CustomValidations\obj\Debug\net8.0\UTrackIt.CustomValidations.AssemblyInfo.cs
+C:\Repository\UTrackIt\UTrackIt.CustomValidations\obj\Debug\net8.0\UTrackIt.CustomValidations.csproj.CoreCompileInputs.cache
+C:\Repository\UTrackIt\UTrackIt.CustomValidations\obj\Debug\net8.0\UTrackIt.CustomValidations.dll
+C:\Repository\UTrackIt\UTrackIt.CustomValidations\obj\Debug\net8.0\refint\UTrackIt.CustomValidations.dll
+C:\Repository\UTrackIt\UTrackIt.CustomValidations\obj\Debug\net8.0\UTrackIt.CustomValidations.pdb
+C:\Repository\UTrackIt\UTrackIt.CustomValidations\obj\Debug\net8.0\ref\UTrackIt.CustomValidations.dll

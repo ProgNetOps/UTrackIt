@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\UTrackIt.Presentation.props" />
+</Project>

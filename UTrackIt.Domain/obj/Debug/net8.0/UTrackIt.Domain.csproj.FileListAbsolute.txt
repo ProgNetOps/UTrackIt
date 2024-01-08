@@ -1,0 +1,15 @@
+C:\Repository\UTrackIt\UTrackIt.Domain\obj\Debug\net8.0\UTrackIt.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\UTrackIt\UTrackIt.Domain\obj\Debug\net8.0\UTrackIt.Domain.AssemblyInfoInputs.cache
+C:\Repository\UTrackIt\UTrackIt.Domain\obj\Debug\net8.0\UTrackIt.Domain.AssemblyInfo.cs
+C:\Repository\UTrackIt\UTrackIt.Domain\obj\Debug\net8.0\UTrackIt.Domain.csproj.CoreCompileInputs.cache
+C:\Repository\UTrackIt\UTrackIt.Domain\bin\Debug\net8.0\UTrackIt.Domain.deps.json
+C:\Repository\UTrackIt\UTrackIt.Domain\bin\Debug\net8.0\UTrackIt.Domain.dll
+C:\Repository\UTrackIt\UTrackIt.Domain\bin\Debug\net8.0\UTrackIt.Domain.pdb
+C:\Repository\UTrackIt\UTrackIt.Domain\bin\Debug\net8.0\UTrackIt.CustomValidations.dll
+C:\Repository\UTrackIt\UTrackIt.Domain\bin\Debug\net8.0\UTrackIt.CustomValidations.pdb
+C:\Repository\UTrackIt\UTrackIt.Domain\obj\Debug\net8.0\UTrackIt.Domain.csproj.AssemblyReference.cache
+C:\Repository\UTrackIt\UTrackIt.Domain\obj\Debug\net8.0\UTrackIt.Domain.csproj.CopyComplete
+C:\Repository\UTrackIt\UTrackIt.Domain\obj\Debug\net8.0\UTrackIt.Domain.dll
+C:\Repository\UTrackIt\UTrackIt.Domain\obj\Debug\net8.0\refint\UTrackIt.Domain.dll
+C:\Repository\UTrackIt\UTrackIt.Domain\obj\Debug\net8.0\UTrackIt.Domain.pdb
+C:\Repository\UTrackIt\UTrackIt.Domain\obj\Debug\net8.0\ref\UTrackIt.Domain.dll
